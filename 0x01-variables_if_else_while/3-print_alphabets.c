@@ -10,7 +10,7 @@ int main(void)
 
 	for (i = 0; i < 52; i++)
 	{
-		putchar(alpha[i]);
+		putchar(aplha[i]);
 	}
 	putchar('\n');
 	return (0);
