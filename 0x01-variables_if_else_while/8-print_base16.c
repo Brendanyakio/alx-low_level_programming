@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - hexadecimals 
+ * main - hexadecimals
  * Return: 0
  */
 int main(void)
@@ -11,7 +11,7 @@ int main(void)
 	{
 		putchar(i);
 	}
-	for (i = 97; i <103 ; i++)
+	for (i = 97; i < 103 ; i++)
 	{
 		putchar(i);
 	}
